@@ -32,7 +32,7 @@ config.options = {
 	styles = {
 		bold = true,
 		italic = true,
-		transparency = true,
+		transparency = false,
 	},
 
 	---@type table<string, table<string, string>>
